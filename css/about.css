@@ -1,0 +1,22 @@
+.about-header{
+    color: red;
+    } 
+    
+/* Start of bio */
+
+.bio-column{
+    float:left;
+    width: 50%;
+    }
+    
+    
+.column-image{
+    width: 100%;
+    height: 200px;
+    }
+.ben-bio{
+    
+    }
+.center{
+    text-align: center;
+    }

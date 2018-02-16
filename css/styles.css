@@ -1,0 +1,146 @@
+body{
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+/* Start nav styles */
+.main-nav{
+  height: 70px;
+  width: 100%;
+  background-color: rgba(26, 26, 26,.08);
+}
+.logo{
+  height: 100%
+}
+.nav-list{
+  float: right;
+  list-style: none;
+}
+.nav-item{
+  float: left;
+  margin-right: 15px;
+  cursor:pointer;
+}
+.nav-link{
+  color: #004d99;
+  text-decoration: none;
+}
+/* End nav styles */
+
+/* Start hero styles */
+.hero-section {
+  height: 500px;
+  background-image: url('../images/another-dragon.jpg');
+  background-size: 100% 100%;
+  }
+  
+.hero-text {
+  margin-top: 0px;
+  text-align: center;
+  padding-top: 200px;
+  color: #ffffff;
+  }
+.text-background {
+  background-color: rgba(0,0,0,.5);
+  padding: 10px;
+  }
+
+/* End hero styles */
+
+/* Start column styles */
+.container {
+  padding: 2% 0;
+  }
+  
+  
+.container:after {
+  content:"";
+  display: block;
+  clear: both;
+  }
+  
+.column {
+  height: 300px;
+  width: 30%;
+  border: 1px solid #000000;
+  float: left;
+  text-align: center;
+  margin-left: 2.25%;
+  }
+.column-image {
+  width: 100%;
+  height: 115px;
+  }
+/* End column styles */
+
+/* Start footer styles */
+.main-footer {
+  height: 150px;
+  border-top: 1px solid #000000;
+  }
+.footer-section{
+  width: 33%;
+  border-right: 1px solid #000000;
+  float: left;
+  height: 100%;
+  }
+  
+/* Diamond social media icons */
+
+.main-box {
+  height: 150px;
+  width: 150px;
+}
+
+.box {
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+
+.circle-background {
+  background-color: green;
+  border-radius: 100%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear-left {
+  clear: left;
+}
+
+.clear-right {
+  clear: right;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.center-text {
+  padding-top: 13px;
+  color: #fafafa;
+  cursor: pointer;
+}
+
+.fa-github {
+  color: blue;
+  
+  }
+/* End footer styles */
+
+
+
+
+
+
+
+
+
+
+
